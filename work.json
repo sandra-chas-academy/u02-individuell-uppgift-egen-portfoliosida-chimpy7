@@ -1,0 +1,52 @@
+{ "work":[{
+"work1":{
+    "job":"Sjukhuslokalvårdare",
+    "tid": "2021:02:15 - 2022:06:22",
+    "förklaring": "jobbade som sjukhus lokalvårdare dvs hjälpde läkare sjuksköteskor osv med det dom behövde hjälp med"
+},
+"work2":{
+    "job":"Lager",
+    "tid": "2019:6:15 - 2020:09:5",
+    "förklaring": "jobbade på lager"
+},
+"work3":{
+    "job":"TBD",
+    "tid": "2024:09:15 - ",
+    "förklaring": "TBD"
+}
+
+
+
+
+
+
+
+}
+    
+
+
+],
+
+
+"school":[{
+    "school1":{
+        "skola":"gymnasium",
+        "tid":"2016:6:15 - 2019:09:5",
+        "explain":"gymansium studier"
+    },
+
+    "school2":{
+        "skola":"YrkesHögskola",
+        "tid":"2024:9:15 -tbd",
+        "explain":"yrkeshögskola"
+    },
+
+    "school3":{
+        "skola":"Grundskola",
+        "tid":"2007 - 2015",
+        "explain":"Grundskola"
+    }
+    
+}]
+
+}
