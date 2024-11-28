@@ -1,3 +1,5 @@
+
+
 .chimpymain{
 display: flex;
 flex-direction: column;
@@ -30,3 +32,66 @@ p{
 h2{
  font-size: 20px;
 }
+
+.ImgHeader{
+height: 100px;
+width: 110px;
+}
+
+.HeaderContainer{
+    display:flex;
+    flex-direction: row;
+    padding: 25px;
+    justify-content: space-between;
+}
+.textHeader{
+    font-size: 1.5vw;
+  color: #034f84;
+ 
+}
+
+.chimpySpan{
+    color: black;
+}
+
+.chimpyLeftSideHeader{
+    display: flex;
+   
+}
+
+.HeaderCenter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+    
+    
+}
+
+.HeaderA{
+    display: none;
+    text-decoration: none;
+    color: red;
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.iconHeader{
+    width: 30px;
+}
+
+
+.highlight{
+    display: block;
+}
+
+@media (max-width: 700px) {
+ 
+    .textHeader{
+        font-size: 3.5vw ;
+      color: #840344;
+      padding: 25px;
+    }
+  }
