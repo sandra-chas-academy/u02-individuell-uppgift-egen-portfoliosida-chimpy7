@@ -8,10 +8,12 @@ border-bottom: 3px black solid ;
 
 }
 
-.headski{
 
+
+a{
+    text-decoration: none;
+    color: blue;
 }
-
 
 p{
     font-family: "Faculty Glyphic", sans-serif;
@@ -19,6 +21,35 @@ p{
     font-style: normal;
 }
 
+/* about */
+.netlify{
+    margin-left: 6vw;
+    text-decoration: none;
+    color: blue;
+}
+
+.mainskiskit {
+    display: flex;
+    flex-direction: column;
+    border: 3px black solid;
+    gap: 10px;
+    margin-top: 9vw;
+    margin-left: 22vw;
+
+  }
+.mainskiski{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+   
+}
+.imgmain{
+    width: 15vw;
+}
+
+.imgabout{
+    width: 40px;
+}
 
 .imgg{
     width: 30px;
