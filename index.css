@@ -1,0 +1,177 @@
+
+
+.chimpymain{
+display: flex;
+flex-direction: column;
+align-items: center;
+border-bottom: 3px black solid ;
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+p{
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.openmodal{
+    background: linear-gradient(45deg, #ff0000, #880000);
+    color: #ffffff;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 2px solid #880000;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+ 
+}
+/* about */
+
+.alsothis{
+
+    color: #007bff; 
+            text-decoration: none; 
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 2px solid transparent; 
+            padding: 5px 10px;
+            border-radius: 4px;
+}
+.netlify{
+    margin-left: 6vw;
+
+}
+
+.mainskiskit {
+    display: flex;
+    flex-direction: column;
+    border: 3px black solid;
+    gap: 10px;
+    margin-top: 9vw;
+    margin-left: 22vw;
+
+  }
+.mainskiski{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+   
+}
+.imgmain{
+    width: 15vw;
+}
+
+.imgabout{
+    width: 40px;
+}
+
+.imgg{
+    width: 30px;
+    height: 30px;
+}
+.imggg{
+    width: 70px;
+    height: 70px;
+}
+
+h2{
+ font-size: 20px;
+}
+
+.ImgHeader{
+height: 100px;
+width: 110px;
+}
+
+.HeaderContainer{
+    display:flex;
+    flex-direction: row;
+    padding: 25px;
+    justify-content: space-between;
+}
+.textHeader{
+    font-size: 1.5vw;
+  color: #034f84;
+ 
+}
+
+.chimpySpan{
+    color: black;
+}
+
+.chimpyLeftSideHeader{
+    display: flex;
+   
+}
+
+.HeaderCenter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+    
+    
+}
+
+.HeaderA{
+    display: none;
+    text-decoration: none;
+    color: #ff0000; 
+    font-size: 18px;
+    font-weight: bold; 
+    padding: 10px; 
+    border: 2px solid #ff0000; 
+    border-radius: 5px; 
+    background-color: #ffe6e6; 
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.iconHeader{
+    width: 30px;
+}
+
+
+.highlight{
+    display: block;
+}
+
+@media (max-width: 700px) {
+ 
+    .textHeader{
+        font-size: 3.5vw ;
+      color: #840344;
+      padding: 25px;
+    }
+
+    .mainskiski{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+       
+    }
+
+    .imgmain{
+        width: 71vw !important;
+    }
+
+
+    .netlify{
+        margin-left: 27vw;
+        font-size: 5vw
+    
+    }
+    .alsothis{
+        font-size: 3vw;
+    }
+  }
