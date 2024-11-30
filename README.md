@@ -34,12 +34,16 @@ När hämtningen av projekten sker ska det finnas information om att projekten h
 
 ### Sammantfattning av projekt + teoretiska frågor
 
-1. Du sammanfattar ditt projekt i README.md och reflekterar kring styrkor och ev brister. Max 500 ord.
-2. Du svarar på dessa frågor (max 800 ord):
+      projeket var intresant och roligt det jag gjorde bra var och lösa ny problem som dök upp det jag gjorde dåligt var att jag repeterade koden lite för mycket när en for each eller en loop skulle lika gärna kunna användas . Roligt har det varit med javascript i helhet men skulle vilja göra något nytt utöver hemsida dvs men det kommer men utöver det har det vari  generellt roligt att göra ska jag säga
 
-Vad kan man utveckla m.h.a av Javascript inom frontend?
-Vad är JSON och hur används det inom frontend?
-Vad är HTTP och varför bör man som frontendutvecklare ha kunskap om det och dess protokoll?
+
+JavaScript (JS) är ett mycket kraftfullt verktyg för frontendutveckling, och möjligheterna med språket är nästintill oändliga. Dess största användning ligger i att skapa interaktiva och dynamiska upplevelser för användare. Genom att skriva användbara skript kan man exempelvis skapa animeringar, validera formulär, hantera användarinteraktioner och mycket mer. Men JavaScript på frontenden handlar inte bara om att skriva enkla skript – med hjälp av moderna ramverk och bibliotek som React, Vue eller Angular kan man bygga hela applikationer direkt i JS. Allt beror på projektets syfte och komplexitet, men JavaScript är utan tvekan en central komponent i webbutveckling.
+
+En annan viktig aspekt av JavaScript är hanteringen av data. JSON (JavaScript Object Notation) är ett vanligt format för att lagra och utbyta data. JSON är lätt att läsa, både för människor och maskiner, vilket gör det idealiskt för många typer av applikationer. Exempelvis kan man spara användardata, som namn eller preferenser, för att skapa en personlig upplevelse, som riktad reklam. Man kan också använda JSON för att lagra information som en lista av produkter eller spel, vilket sedan kan presenteras på en webbplats. Ofta hämtas JSON-data från en server med hjälp av asynkrona operationer som fetch eller axios, vilket gör att man kan ladda och använda datan dynamiskt utan att behöva ladda om sidan.
+
+För att arbeta effektivt med JavaScript och webbutveckling är det viktigt att förstå HTTP och dess protokoll. HTTP är grunden för hur data skickas och tas emot mellan klient och server. De vanligaste metoderna är GET (hämta data), POST (skicka data), DELETE (ta bort data) och PUT (uppdatera data). Det är också viktigt att förstå HTTP-statuskoder, som t.ex. 200 (OK) för lyckade förfrågningar, 404 (Not Found) när resurser saknas och 500 (Server Error) när något gått fel på serversidan.
+
+En grundläggande förståelse för dessa metoder och statuskoder är avgörande för att kunna bygga stabila och användarvänliga applikationer. I kombination med JavaScript kan man skapa avancerade och smidiga lösningar, vilket gör att språket fortsätter att vara en hörnsten i modern webbutveckling.
 
 
 ## Kriterier för bedömning

@@ -21,11 +21,33 @@ p{
     font-style: normal;
 }
 
+.openmodal{
+    background: linear-gradient(45deg, #ff0000, #880000);
+    color: #ffffff;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 2px solid #880000;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+ 
+}
 /* about */
+
+.alsothis{
+
+    color: #007bff; 
+            text-decoration: none; 
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 2px solid transparent; 
+            padding: 5px 10px;
+            border-radius: 4px;
+}
 .netlify{
     margin-left: 6vw;
-    text-decoration: none;
-    color: blue;
+
 }
 
 .mainskiskit {
@@ -102,7 +124,13 @@ width: 110px;
 .HeaderA{
     display: none;
     text-decoration: none;
-    color: red;
+    color: #ff0000; 
+    font-size: 18px;
+    font-weight: bold; 
+    padding: 10px; 
+    border: 2px solid #ff0000; 
+    border-radius: 5px; 
+    background-color: #ffe6e6; 
     font-family: "Faculty Glyphic", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -124,5 +152,26 @@ width: 110px;
         font-size: 3.5vw ;
       color: #840344;
       padding: 25px;
+    }
+
+    .mainskiski{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+       
+    }
+
+    .imgmain{
+        width: 71vw !important;
+    }
+
+
+    .netlify{
+        margin-left: 27vw;
+        font-size: 5vw
+    
+    }
+    .alsothis{
+        font-size: 3vw;
     }
   }
